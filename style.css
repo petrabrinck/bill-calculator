@@ -39,6 +39,7 @@ img {
   margin-top: 15px;
   box-sizing: border-box;
   padding: 1em;
+  padding-bottom: 0.5em;
   background: url(assets/christine-trant-aj1B4wkOCpI-unsplash.jpg);
   /* no-repeat bottom center */
   background-position: center;
