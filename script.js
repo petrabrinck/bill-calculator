@@ -10,3 +10,5 @@ document.getElementById('container').onchange = function () {
     document.getElementById('splitOutput').innerHTML = split;
     document.getElementById('newBill').innerHTML = newBillEach.toFixed(2);
     document.getElementById('tipEach').innerHTML = tipEach.toFixed(2);
+}
+
