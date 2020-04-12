@@ -54,11 +54,13 @@ img {
   width: 45%;
   align-items: center;
   margin-left: 8px;
+  vertical-align: middle;
 }
 #splitInput {
   width: 45%;
   align-items: center;
   margin-left: 0px;
+  vertical-align: middle;
 }
 
 hr {
