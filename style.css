@@ -86,6 +86,7 @@ span {
 
 div {
   line-height: 3em;
+  margin-left: 15px;
 }
 
 input[type="text"] {
