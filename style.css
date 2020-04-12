@@ -50,10 +50,15 @@ img {
   box-shadow: 10px 10px 15px 10px rgb(111, 90, 90);
 }
 
-#tipInput,
+#tipInput {
+  width: 45%;
+  align-items: center;
+  margin-left: 8px;
+}
 #splitInput {
   width: 45%;
   align-items: center;
+  margin-left: 0px;
 }
 
 hr {
